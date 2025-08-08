@@ -1,4 +1,4 @@
 # karan_demo
-first github repository
-Author Karan
+first github repository<br>
+Author Karan<br>
 college Name = GHRISTU
