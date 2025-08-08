@@ -1,3 +1,4 @@
 # karan_demo
 first github repository
-Karan
+Author Karan
+college Name = GHRISTU
